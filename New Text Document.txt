@@ -1,0 +1,14 @@
+D:\FOOD DEL>npm create vite@latest
+D:\FOOD DEL> Project name: ... frontend
+D:\FOOD DEL> Select a framework: » React
+D:\FOOD DEL> Select a variant: » JavaScript
+D:\FOOD DEL> cd .\frontend\
+D:\FOOD DEL>npm install 
+D:\FOOD DEL\frontend> npm install react-router-dom
+D:\FOOD DEL\frontend>npm run dev
+
+
+D:\FOOD DEL>mkdir backend
+D:\FOOD DEL\backend>npm init 
+D:\FOOD DEL\backend>npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+D:\FOOD DEL\backend>npm cache clean --force
